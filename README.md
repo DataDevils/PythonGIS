@@ -26,8 +26,8 @@
 
 ### [Lesson 3](https://automating-gis-processes.github.io/site/lessons/L3/overview.html):
 
-* **L3**/[1-geocoding_in_geopandas.ipynb](https://automating-gis-processes.github.io/site/notebooks/L3/geocoding_in_geopandas.html#Geocoding-in-Geopandas): Geocoding
-* **L3**/[2-point-in-polygon.ipynb](https://automating-gis-processes.github.io/site/notebooks/L3/point-in-polygon.html): Spatial analysis
+* **L3**/[1-geocoding_in_geopandas.ipynb](https://automating-gis-processes.github.io/site/notebooks/L3/geocoding_in_geopandas.html#Geocoding-in-Geopandas): Geocoding - transforming addresses into coordinates
+* **L3**/[2-point-in-polygon.ipynb](https://automating-gis-processes.github.io/site/notebooks/L3/point-in-polygon.html): Spatial queries
 * **L3**/[3-spatial_index.ipynb](https://automating-gis-processes.github.io/site/notebooks/L3/spatial_index.html): Improving performance
 * **L3**/[4-spatial_join.ipynb](https://automating-gis-processes.github.io/site/notebooks/L3/spatial-join.html): Combining spatial data layers
 * **L3**/[5-nearest-neighbour.ipynb](https://automating-gis-processes.github.io/site/notebooks/L3/nearest-neighbour.html): Finding nearby features 
@@ -35,20 +35,18 @@
 
 ### [Lesson 4](https://automating-gis-processes.github.io/site/lessons/L4/overview.html):
 
-* **L4**/[1-geometric-operations.ipynb](https://automating-gis-processes.github.io/site/notebooks/L4/geometric-operations.html#Geometric-operations): Overlay analyses
+* **L4**/[1-geometric-operations.ipynb](https://automating-gis-processes.github.io/site/notebooks/L4/geometric-operations.html#Geometric-operations): Create new geometries based on overlay analysis; aggregating data
 * **L4**/[2-reclassify.ipynb](https://automating-gis-processes.github.io/site/notebooks/L4/reclassify.html#Data-reclassification): Data reclassification
 * **L4**/Exercise-4.ipynb
 
 ### [Lesson 5](https://automating-gis-processes.github.io/site/lessons/L5/overview.html):
 
-* **L5**/[1-static_maps.ipynb](https://automating-gis-processes.github.io/site/notebooks/L5/static_maps.html): 
-* **L5**/[2-interactive-map-folium.ipynb](https://automating-gis-processes.github.io/site/notebooks/L5/interactive-map-folium.html): 
-* **L5**/[3-Employment_in_Finland.ipynb](https://automating-gis-processes.github.io/site/notebooks/L5/Employment_in_Finland.html): 
+* **L5**/[1-static_maps.ipynb](https://automating-gis-processes.github.io/site/notebooks/L5/static_maps.html): Static maps
+* **L5**/[2-interactive-map-folium.ipynb](https://automating-gis-processes.github.io/site/notebooks/L5/interactive-map-folium.html): Interactive Leaflet maps (`Folium` and `mplleaflet`)
+* **L5**/[3-Employment_in_Finland.ipynb](https://automating-gis-processes.github.io/site/notebooks/L5/Employment_in_Finland.html): Sharing interactive maps on GitHub
 
 ### [Lesson 6](https://automating-gis-processes.github.io/site/lessons/L6/overview.html):
 
-* **L6**/[1-retrieve_osm_data.ipynb](https://automating-gis-processes.github.io/site/notebooks/L6/retrieve_osm_data.html)
+* **L6**/[1-retrieve_osm_data.ipynb](https://automating-gis-processes.github.io/site/notebooks/L6/retrieve_osm_data.html): Retrieving OpenStreetMap data
 
-* **L6**/[2-network-analysis.ipynb](https://automating-gis-processes.github.io/site/notebooks/L6/network-analysis.html)
-
-  
+* **L6**/[2-network-analysis.ipynb](https://automating-gis-processes.github.io/site/notebooks/L6/network-analysis.html): Network analysis in Python
