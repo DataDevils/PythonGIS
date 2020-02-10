@@ -11,3 +11,4 @@ dependencies:
   - mapclassify
   - folium
   - mplleaflet
+  - descartes
